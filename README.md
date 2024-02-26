@@ -47,7 +47,7 @@ I worked as a Java Programmer on [Fiverr](https://www.fiverr.com/); however, I e
 
 → Markdown → Git → Text editors → MS Office → WordPress → ClickUp → Slack → MySQL → MongoDB → NodeJS → React → Java → Python → Machine Learning → JavaScript → PHP → SQL → Bash
 
-# Technical Articles/Tutorials/How-tos
+# Technical Articles | Tutorials | How-tos
 
 ### 1. Introduction to Machine Learning
 
@@ -70,7 +70,7 @@ I worked as a Java Programmer on [Fiverr](https://www.fiverr.com/); however, I e
 
 **Skills:** Technical Writing, Tutorial Writing, Java
 
-### 3. How to Use Hibernate OGM to Integrate Hibernate With MongoDB
+### 4. How to Use Hibernate OGM to Integrate Hibernate With MongoDB
 
 | ![how-to-use-hibernate-ogm-to-integrate-hibernate-with-mongodb](/Images/how-to-use-hibernate-ogm-to-integrate-hibernate-with-mongodb.png) | Wrote an article instructing how to set up and use Hibernate OGM to integrate Hibernate with MongoDB. This article shows how to write *pom.xml*, *persistence.xml*, and a *.java* class to map as an entity in MongoDB. [Read More](https://www.delftstack.com/howto/mongodb/use-hibernate-ogm-to-integrate-hibernate-with-mongodb/) |
 | :----------------------------------------------------------: | :----------------------------------------------------------- |
