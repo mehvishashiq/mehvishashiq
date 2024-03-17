@@ -45,7 +45,7 @@ I worked as a Java Programmer on [Fiverr](https://www.fiverr.com/); however, I e
 
 **3. TOOLS & TECHNOLOGIES**
 
-→ Markdown → Git → Text editors → MS Office → WordPress → ClickUp → Slack → MySQL → MongoDB → NodeJS → React → Java → Python → Machine Learning → JavaScript → PHP → SQL → Bash
+→ Markdown → Git → Text editors → MS Office → WordPress → ClickUp → Slack → MySQL → MongoDB → PostgreSQL → NodeJS → React → Java → Python → HTML/CSS → JSON → JavaScript → PHP → SQL → Bash → Ubuntu
 
 # Technical Articles | Tutorials | How-tos
 
