@@ -7,7 +7,7 @@ I have been in the writing field since 2019 with over 3 years of technical writi
 - Working on How-to and Installation Guides
 - Collaborating with Company Founders and Editors' Team
 
-I am currently working as a Technical Writer on [Upwork](https://www.upwork.com/freelancers/~01e8bb3756b134bb9b). Over the past few years, I have worked with various tools and technologies to write technical tutorials, blogs, articles, and how-to guides. You can best describe me as “*A technical writer who appreciates the depth of technology and isn’t afraid to dive deeper when required.*”
+I am currently working as a Freelance Technical Writer on [Upwork](https://www.upwork.com/freelancers/~01e8bb3756b134bb9b). Over the past few years, I have worked with various tools and technologies to write technical tutorials, blogs, articles, and how-to guides. You can best describe me as “*A technical writer who appreciates the depth of technology and isn’t afraid to dive deeper when required.*”
 
 I worked as a Java Programmer on [Fiverr](https://www.fiverr.com/); however, I enjoy writing about technology more rather than working on technology. For the past few months, I've been exploring technical documentation to move one step ahead in technical writing.
 
@@ -45,7 +45,7 @@ I worked as a Java Programmer on [Fiverr](https://www.fiverr.com/); however, I e
 
 **3. TOOLS & TECHNOLOGIES**
 
-→ Markdown → Git → Text editors → MS Office → WordPress → ClickUp → Slack → MySQL → MongoDB → PostgreSQL → NodeJS → React → Java → Python → HTML/CSS → JSON → JavaScript → PHP → SQL → Bash → Ubuntu
+→ Markdown → Git → Text editors → Jira → MS Office → WordPress → ClickUp → Slack → MySQL → MongoDB → PostgreSQL → NodeJS → React → Java → Python → HTML/CSS → JSON → JavaScript → PHP → SQL → Bash → Ubuntu
 
 # Technical Articles | Tutorials | How-tos
 
